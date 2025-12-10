@@ -1,0 +1,10 @@
+# Sensitive files
+config.py
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Outputs (keep structure, ignore generated files)
+health_summary_generator/outputs/*/
