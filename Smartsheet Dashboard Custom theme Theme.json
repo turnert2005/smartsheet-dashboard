@@ -1,0 +1,25 @@
+{
+  "name": "Custom theme",
+  "description": "",
+  "config": {
+    "backgroundColor": "#FFFFFF",
+    "widgetBackgroundColor": "#FFFFFF",
+    "widgetTitle": { "backgroundColor": "#F2F2F2", "fontColor": "#000000" },
+    "titleWidget": { "backgroundColor": "#F2F2F2", "fontColor": "#000000" },
+    "bodyFontColor": "#000000",
+    "chartSeriesColors": [
+      "#1061C3",
+      "#EA352E",
+      "#FF8D00",
+      "#40B14B",
+      "#9210AD",
+      "#FFED00",
+      "#5FB3F9",
+      "#F87E7D",
+      "#FFCD7A",
+      "#7ED085",
+      "#D190DA",
+      "#974C00"
+    ]
+  }
+}

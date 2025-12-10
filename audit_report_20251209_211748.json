@@ -1,0 +1,156 @@
+{
+  "timestamp": "2025-12-09T21:17:48.089075",
+  "missing_notes": [
+    [
+      "1.1",
+      "COMPLETE - Draft proposal submitted"
+    ],
+    [
+      "1.2",
+      "COMPLETE - SOW finalized"
+    ],
+    [
+      "1.3",
+      "COMPLETE - SOW approved"
+    ],
+    [
+      "3.1",
+      "DEPENDENCY: Requires ARB approval before production deployment"
+    ],
+    [
+      "3.2.2",
+      "Routing % for Unknown calls - confirm with CSG (Angela)"
+    ]
+  ],
+  "meeting_items": [
+    {
+      "wbs": "1.5.1",
+      "topic": "VoiceGateway Prerequisites",
+      "question": "Confirm predecessor dependencies are correct after WBS reorder",
+      "owner": "FPS (Chirag)",
+      "priority": "HIGH"
+    },
+    {
+      "wbs": "1.7.2",
+      "topic": "800 Test Number DID Count",
+      "question": "How many DIDs are required for staging test number?",
+      "owner": "CSG (Angela)",
+      "priority": "MEDIUM"
+    },
+    {
+      "wbs": "1.10",
+      "topic": "Signal API Ownership",
+      "question": "Is Signal API developed by FPS or is it a partner integration?",
+      "owner": "FPS (Chirag)",
+      "priority": "HIGH"
+    },
+    {
+      "wbs": "1.8",
+      "topic": "IGT SIP Trunk Status",
+      "question": "Confirm Dec 23 target still achievable - any blockers?",
+      "owner": "IGT (Sandeep)",
+      "priority": "CRITICAL"
+    },
+    {
+      "wbs": "3.2.2",
+      "topic": "Unknown Call Routing %",
+      "question": "What percentage routing for Unknown call types?",
+      "owner": "CSG (Angela)",
+      "priority": "MEDIUM"
+    },
+    {
+      "wbs": "2.1/2.2",
+      "topic": "QA/UAT Compression",
+      "question": "Can we overlap QA and UAT or compress durations?",
+      "owner": "FPS/Frontier",
+      "priority": "HIGH - Schedule Recovery"
+    },
+    {
+      "wbs": "1.9.1 vs 1.5.1",
+      "topic": "VoiceGateway Sequence",
+      "question": "1.5.1 activates licenses but 1.9.1 provisions - is sequence correct?",
+      "owner": "Cognigy/FPS",
+      "priority": "HIGH"
+    }
+  ],
+  "duplicate_tasks": [
+    {
+      "task": "Configure IVR routing (SIP REFER)",
+      "wbs_list": [
+        "1.7.1",
+        "3.2.1"
+      ],
+      "suggestion": "Add (Staging) and (Production) suffix"
+    },
+    {
+      "task": "Configure the Signal API",
+      "wbs_list": [
+        "1.8.3",
+        "3.3.3",
+        "3.4.3"
+      ],
+      "suggestion": "Clarify vendor context - IGT vs Cognigy"
+    },
+    {
+      "task": "Execute end-to-end test plan",
+      "wbs_list": [
+        "2.1.1",
+        "2.2.1"
+      ],
+      "suggestion": "Add (QA) and (UAT) suffix"
+    },
+    {
+      "task": "Provision 2 DID test numbers",
+      "wbs_list": [
+        "3.3.4",
+        "3.4.4"
+      ],
+      "suggestion": "Already has vendor context from parent"
+    }
+  ],
+  "recommended_comments": [
+    {
+      "wbs": "1.8",
+      "comment": "@Sandeep - Please confirm Dec 23 completion date for SIP trunk configuration. This is on critical path.",
+      "tag": "sandeep (IGT)"
+    },
+    {
+      "wbs": "1.10",
+      "comment": "@Chirag - Clarification needed: Is Signal API FPS-owned or partner integration?",
+      "tag": "Chirag Handa (FPS)"
+    },
+    {
+      "wbs": "2.1",
+      "comment": "@Hemant - QA test plan needs review. Can we compress from 5 days to 3 days?",
+      "tag": "Hemant Modi (FPS)"
+    },
+    {
+      "wbs": "3.1",
+      "comment": "@Frontier - ARB meeting scheduled? This gates production deployment.",
+      "tag": "Frontier"
+    }
+  ],
+  "recommended_update_requests": [
+    {
+      "recipient": "Chirag Handa (chirag.handa@fpsinc.com)",
+      "subject": "Phase 2 Agentic Voice - FPS Task Status Update",
+      "rows": [
+        "1.6 - FPS: Knowledgebase Development",
+        "1.10 - FPS: Partner Integrations Development",
+        "2.1 - FPS: QA Testing (schedule compression opportunity)"
+      ],
+      "message": "Please update status and confirm end dates. Specifically:\n1. Is 1.10 Signal API FPS-owned or partner?\n2. Can QA testing be compressed from 5 to 3 days?"
+    },
+    {
+      "recipient": "Hemant Modi (hemant.modi@fpsinc.com)",
+      "subject": "Phase 2 Agentic Voice - Development Status Check",
+      "rows": [
+        "1.6.1 - Validate KnowledgeOwl API",
+        "1.6.2 - Optimize FAQ lookup for voice",
+        "1.6.3 - Implement query fallback logic",
+        "1.6.4 - Tune LLM responses"
+      ],
+      "message": "Please confirm completion status. Notes show 1.6.2 complete but accuracy enhancements in progress."
+    }
+  ]
+}

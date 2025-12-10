@@ -1,0 +1,87 @@
+{
+  "timestamp": "2025-12-09T20:15:19.278198",
+  "dry_run": true,
+  "total_changes": 16,
+  "changes": [
+    {
+      "row": 8,
+      "old_name": "FPS Final Proposal (SOW)",
+      "new_name": "Cognigy: Staging Setup Phase 1"
+    },
+    {
+      "row": 13,
+      "old_name": "Frontier Staging Dependencies Complete",
+      "new_name": "Cognigy: Staging Setup Phase 2"
+    },
+    {
+      "row": 22,
+      "old_name": "Connect SIP trunks",
+      "new_name": "IGT: Staging Setup"
+    },
+    {
+      "row": 28,
+      "old_name": "Configure the Signal API",
+      "new_name": "FPS: Knowledgebase Development"
+    },
+    {
+      "row": 36,
+      "old_name": "Frontier Production Dependencies Complete",
+      "new_name": "FPS: Partner Integrations Development"
+    },
+    {
+      "row": 39,
+      "old_name": "FPS Development - Partner Integrations",
+      "new_name": "QA & Testing Phase"
+    },
+    {
+      "row": 40,
+      "old_name": "Implement required partner API integrations",
+      "new_name": "FPS: QA Testing"
+    },
+    {
+      "row": 43,
+      "old_name": "FPS QA Testing",
+      "new_name": "CSG: Staging Setup"
+    },
+    {
+      "row": 56,
+      "old_name": "Provision 2 DID test numbers",
+      "new_name": "Frontier: UAT Testing"
+    },
+    {
+      "row": 62,
+      "old_name": "CSG Production Dependencies Complete (UAT Approval)",
+      "new_name": "Frontier: UAT Approval"
+    },
+    {
+      "row": 63,
+      "old_name": "Configure Production IVR call routing using SIP REFER",
+      "new_name": "Production Deployment"
+    },
+    {
+      "row": 64,
+      "old_name": "Set the routing percentage for \u201cUnknown\u201d call types",
+      "new_name": "Cognigy: Production Setup"
+    },
+    {
+      "row": 65,
+      "old_name": "Frontier Production Dependencies Complete",
+      "new_name": "CSG: Production Setup"
+    },
+    {
+      "row": 66,
+      "old_name": "Provision Production Azure AI Speech STT keys",
+      "new_name": "IGT: Production Setup"
+    },
+    {
+      "row": 69,
+      "old_name": "Frontier Production Go-Live Approval (CAB)",
+      "new_name": "Frontier: CAB Approval"
+    },
+    {
+      "row": 72,
+      "old_name": "FPS Production Deployment",
+      "new_name": "FPS: Production Deployment"
+    }
+  ]
+}

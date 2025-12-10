@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-12-09T21:04:24.222583",
+  "total_fixes": 13,
+  "categories": [
+    "naming",
+    "predecessors",
+    "rename",
+    "vendor_clarification",
+    "notes"
+  ],
+  "fps_flags": 3
+}

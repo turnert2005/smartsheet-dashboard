@@ -1,0 +1,279 @@
+{
+  "timestamp": "2025-12-09T19:35:56.538279",
+  "dry_run": false,
+  "total_changes": 34,
+  "changes": [
+    {
+      "row": 56,
+      "type": "COMPRESSION_NOTE",
+      "field": "Notes",
+      "old_value": "(empty)",
+      "new_value": "[12/09 Review] Schedule compression candidate - Fr",
+      "rationale": "Schedule compression candidate identified in 12/09 review"
+    },
+    {
+      "row": 57,
+      "type": "COMPRESSION_NOTE",
+      "field": "Notes",
+      "old_value": "(empty)",
+      "new_value": "[12/09 Review] Schedule compression candidate - UA",
+      "rationale": "Schedule compression candidate identified in 12/09 review"
+    },
+    {
+      "row": 58,
+      "type": "COMPRESSION_NOTE",
+      "field": "Notes",
+      "old_value": "(empty)",
+      "new_value": "[12/09 Review] Schedule compression candidate - UA",
+      "rationale": "Schedule compression candidate identified in 12/09 review"
+    },
+    {
+      "row": 69,
+      "type": "COMPRESSION_NOTE",
+      "field": "Notes",
+      "old_value": "(empty)",
+      "new_value": "[12/09 Review] Schedule compression candidate - CA",
+      "rationale": "Schedule compression candidate identified in 12/09 review"
+    },
+    {
+      "row": 70,
+      "type": "COMPRESSION_NOTE",
+      "field": "Notes",
+      "old_value": "(empty)",
+      "new_value": "[12/09 Review] Schedule compression candidate - CA",
+      "rationale": "Schedule compression candidate identified in 12/09 review"
+    },
+    {
+      "row": 71,
+      "type": "COMPRESSION_NOTE",
+      "field": "Notes",
+      "old_value": "(empty)",
+      "new_value": "[12/09 Review] Schedule compression candidate - CA",
+      "rationale": "Schedule compression candidate identified in 12/09 review"
+    },
+    {
+      "row": 40,
+      "type": "COMPRESSION_NOTE",
+      "field": "Notes",
+      "old_value": "(empty)",
+      "new_value": "[12/09 Review] Schedule compression candidate - FP",
+      "rationale": "Schedule compression candidate identified in 12/09 review"
+    },
+    {
+      "row": 41,
+      "type": "COMPRESSION_NOTE",
+      "field": "Notes",
+      "old_value": "(empty)",
+      "new_value": "[12/09 Review] Schedule compression candidate - En",
+      "rationale": "Schedule compression candidate identified in 12/09 review"
+    },
+    {
+      "row": 42,
+      "type": "COMPRESSION_NOTE",
+      "field": "Notes",
+      "old_value": "(empty)",
+      "new_value": "[12/09 Review] Schedule compression candidate - QA",
+      "rationale": "Schedule compression candidate identified in 12/09 review"
+    },
+    {
+      "row": 17,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "13FS",
+      "rationale": "Cognigy Phase 2 depends on Phase 1 completion, not IGT"
+    },
+    {
+      "row": 18,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "13FS",
+      "rationale": "VoiceGateway provisioning follows Cognigy Phase 1"
+    },
+    {
+      "row": 19,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "18FS",
+      "rationale": "Connect SIP trunks after VoiceGateway provisioned"
+    },
+    {
+      "row": 20,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "19FS",
+      "rationale": "Assign numbers after SIP trunks connected"
+    },
+    {
+      "row": 21,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "20FS",
+      "rationale": "Create SIP flow after numbers assigned"
+    },
+    {
+      "row": 37,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "28FS",
+      "rationale": "Partner integrations depend on Knowledgebase development"
+    },
+    {
+      "row": 38,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "37FS",
+      "rationale": "Data endpoints follow partner API integration"
+    },
+    {
+      "row": 40,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "36FS",
+      "rationale": "QA Testing starts after Partner Integrations complete"
+    },
+    {
+      "row": 41,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "40SS",
+      "rationale": "Test execution starts with QA phase"
+    },
+    {
+      "row": 42,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "41SS",
+      "rationale": "QA environment testing parallel with test execution"
+    },
+    {
+      "row": 46,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "17FS",
+      "rationale": "Production provisioning after Staging Phase 2 complete"
+    },
+    {
+      "row": 47,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "46SS",
+      "rationale": "800 number provisioning with production phase"
+    },
+    {
+      "row": 48,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "47FS",
+      "rationale": "SIP trunks after 800 number"
+    },
+    {
+      "row": 49,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "48FS",
+      "rationale": "Signal API after SIP trunks"
+    },
+    {
+      "row": 50,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "49FS",
+      "rationale": "DID numbers after Signal API"
+    },
+    {
+      "row": 51,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "22FS",
+      "rationale": "IGT Production follows IGT Staging completion"
+    },
+    {
+      "row": 52,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "51SS",
+      "rationale": "800 number with production phase start"
+    },
+    {
+      "row": 53,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "52FS",
+      "rationale": "SIP trunks after 800 number"
+    },
+    {
+      "row": 54,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "53FS",
+      "rationale": "Signal API after SIP trunks"
+    },
+    {
+      "row": 55,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "24FS +1d",
+      "new_value": "54FS",
+      "rationale": "DID numbers after Signal API"
+    },
+    {
+      "row": 69,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "62FS +1d",
+      "new_value": "62FS +1d",
+      "rationale": "CAB follows UAT Approval"
+    },
+    {
+      "row": 72,
+      "type": "PREDECESSOR",
+      "field": "Predecessors",
+      "old_value": "69FS +1d",
+      "new_value": "69FS +1d",
+      "rationale": "Production deploy after CAB approval"
+    },
+    {
+      "row": 43,
+      "type": "STATUS",
+      "field": "Status",
+      "old_value": "Not Started",
+      "new_value": "In Progress",
+      "rationale": "Angela conducting UAT testing per 12/9 meeting"
+    },
+    {
+      "row": 44,
+      "type": "STATUS",
+      "field": "Status",
+      "old_value": "Not Started",
+      "new_value": "In Progress",
+      "rationale": "IVR call routing configuration in progress"
+    },
+    {
+      "row": 45,
+      "type": "STATUS",
+      "field": "Status",
+      "old_value": "Not Started",
+      "new_value": "In Progress",
+      "rationale": "800 test number setup in progress"
+    }
+  ]
+}

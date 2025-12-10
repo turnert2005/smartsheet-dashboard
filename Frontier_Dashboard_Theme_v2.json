@@ -1,0 +1,31 @@
+{
+  "name": "Frontier Phase 2 v2",
+  "description": "Frontier Airlines - Light headers with dark text",
+  "config": {
+    "backgroundColor": "#FFFFFF",
+    "widgetBackgroundColor": "#FFFFFF",
+    "widgetTitle": {
+      "backgroundColor": "#E8E8E8",
+      "fontColor": "#006643"
+    },
+    "titleWidget": {
+      "backgroundColor": "#006643",
+      "fontColor": "#FFFFFF"
+    },
+    "bodyFontColor": "#4C4C4C",
+    "chartSeriesColors": [
+      "#006643",
+      "#00ACEC",
+      "#33826A",
+      "#2C95B5",
+      "#BD696A",
+      "#E0B774",
+      "#4E7094",
+      "#576E77",
+      "#3B4E55",
+      "#9A9A9A",
+      "#D8E8F2",
+      "#E8E8E8"
+    ]
+  }
+}

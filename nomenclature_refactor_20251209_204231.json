@@ -1,0 +1,186 @@
+{
+  "timestamp": "2025-12-09T20:42:31.517302",
+  "dry_run": true,
+  "changes": [
+    {
+      "wbs": "1.1.1",
+      "old_name": "Draft the initial proposal for the Agentic Voice project",
+      "new_name": "Draft initial proposal"
+    },
+    {
+      "wbs": "1.1.2",
+      "old_name": "Submit the proposal for stakeholder review",
+      "new_name": "Submit for stakeholder review"
+    },
+    {
+      "wbs": "1.2.1",
+      "old_name": "Finalize the Statement of Work (SOW) contract",
+      "new_name": "Finalize SOW contract"
+    },
+    {
+      "wbs": "1.2.2",
+      "old_name": "Submit the SOW for signature",
+      "new_name": "Submit SOW for signature"
+    },
+    {
+      "wbs": "1.3.1",
+      "old_name": "Obtain formal approval on the Statement of Work (SOW).",
+      "new_name": "Obtain formal SOW approval"
+    },
+    {
+      "wbs": "1.4.1",
+      "old_name": "Provision KnowledgeOwl APIs for the Staging environment",
+      "new_name": "Provision KnowledgeOwl APIs"
+    },
+    {
+      "wbs": "1.4.2",
+      "old_name": "Generate and configure the OpenAI LLM (gpt-4o-mini) API key for Staging",
+      "new_name": "Configure OpenAI LLM API key"
+    },
+    {
+      "wbs": "1.6.1",
+      "old_name": "Validate the KnowledgeOwl API",
+      "new_name": "Validate KnowledgeOwl API"
+    },
+    {
+      "wbs": "1.6.2",
+      "old_name": "Optimize FAQ lookup specifically for voice interactions",
+      "new_name": "Optimize FAQ lookup for voice"
+    },
+    {
+      "wbs": "1.6.3",
+      "old_name": "Implement fallback logic for unanswered or unclear queries",
+      "new_name": "Implement query fallback logic"
+    },
+    {
+      "wbs": "1.6.4",
+      "old_name": "Tune LLM responses for accuracy and clarity",
+      "new_name": "Tune LLM responses"
+    },
+    {
+      "wbs": "1.7.1",
+      "old_name": "Configure IVR call routing using SIP REFER to IGT",
+      "new_name": "Configure IVR routing (SIP REFER)"
+    },
+    {
+      "wbs": "1.7.2",
+      "old_name": "Set up the 800 test number for the direct_AI English flow",
+      "new_name": "Set up 800 test number"
+    },
+    {
+      "wbs": "1.8.1",
+      "old_name": "Configure 800 number for SIP REFER for CSG Lookup",
+      "new_name": "Configure 800 number (SIP REFER)"
+    },
+    {
+      "wbs": "1.8.2",
+      "old_name": "Set up SIP trunks via NICE CXone",
+      "new_name": "Set up SIP trunks (NICE CXone)"
+    },
+    {
+      "wbs": "1.10.1",
+      "old_name": "Implement required partner API integrations",
+      "new_name": "Implement partner API integrations"
+    },
+    {
+      "wbs": "1.10.2",
+      "old_name": "Set up the necessary data exchange endpoints",
+      "new_name": "Set up data exchange endpoints"
+    },
+    {
+      "wbs": "2.1.1",
+      "old_name": "Execute the full end-to-end Agentic Voice test plan",
+      "new_name": "Execute end-to-end test plan"
+    },
+    {
+      "wbs": "2.1.2",
+      "old_name": "Perform all testing within the QA environment",
+      "new_name": "Complete QA environment testing"
+    },
+    {
+      "wbs": "2.2.1",
+      "old_name": "Execute the full end-to-end Agentic Voice test plan",
+      "new_name": "Execute end-to-end test plan"
+    },
+    {
+      "wbs": "2.2.2",
+      "old_name": "Perform all testing within the UAT environment",
+      "new_name": "Complete UAT environment testing"
+    },
+    {
+      "wbs": "3.1.1",
+      "old_name": "Secure Architecture Review Board (ARB) approval",
+      "new_name": "Secure ARB approval"
+    },
+    {
+      "wbs": "3.1.2",
+      "old_name": "Validate Production KnowledgeOwl APIs",
+      "new_name": "Validate KnowledgeOwl APIs"
+    },
+    {
+      "wbs": "3.2.1",
+      "old_name": "Configure Production IVR call routing using SIP REFER",
+      "new_name": "Configure IVR routing (SIP REFER)"
+    },
+    {
+      "wbs": "3.3.1",
+      "old_name": "Provision the Production 800 number",
+      "new_name": "Provision 800 number"
+    },
+    {
+      "wbs": "3.3.2",
+      "old_name": "Set up SIP trunks to Cognigy",
+      "new_name": "Set up SIP trunks"
+    },
+    {
+      "wbs": "3.4.1",
+      "old_name": "Provision the 800 number for production",
+      "new_name": "Provision 800 number"
+    },
+    {
+      "wbs": "3.4.2",
+      "old_name": "Set up SIP trunks to Cognigy",
+      "new_name": "Set up SIP trunks"
+    },
+    {
+      "wbs": "3.5.1",
+      "old_name": "Provision Production Azure AI Speech STT keys",
+      "new_name": "Provision Azure Speech STT keys"
+    },
+    {
+      "wbs": "3.5.2",
+      "old_name": "Provision Production Azure AI Speech TTS keys",
+      "new_name": "Provision Azure Speech TTS keys"
+    },
+    {
+      "wbs": "3.5.3",
+      "old_name": "Set up Production OpenAI LLM credentials",
+      "new_name": "Set up OpenAI LLM credentials"
+    },
+    {
+      "wbs": "3.6.1",
+      "old_name": "Present the deployment plan to the Change Advisory Board (CAB)",
+      "new_name": "Present deployment plan to CAB"
+    },
+    {
+      "wbs": "3.6.2",
+      "old_name": "Secure final approval for the Production Go-Live",
+      "new_name": "Secure Go-Live approval"
+    },
+    {
+      "wbs": "3.7.1",
+      "old_name": "Deploy the solution to Production",
+      "new_name": "Deploy to Production"
+    },
+    {
+      "wbs": "3.7.2",
+      "old_name": "Perform sanity testing to confirm core functionality",
+      "new_name": "Perform sanity testing"
+    },
+    {
+      "wbs": "3.7.3",
+      "old_name": "Initiate post-launch monitoring to ensure stability and performance",
+      "new_name": "Initiate post-launch monitoring"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "generated": "2025-12-09T19:57:12.199846",
+  "go_live": {
+    "original_baseline": "2026-01-07",
+    "approved_target": "2026-01-13",
+    "previous_projection": "2026-01-30",
+    "new_projection": "2026-01-30"
+  },
+  "critical_path": [
+    {
+      "row": 64,
+      "task": "Production Deployment",
+      "date": "2026-01-30"
+    },
+    {
+      "row": 72,
+      "task": "FPS Production Deployment",
+      "date": "2026-01-30"
+    },
+    {
+      "row": 73,
+      "task": "Deploy the solution to Production",
+      "date": "2026-01-30"
+    },
+    {
+      "row": 74,
+      "task": "Perform sanity testing to confirm core functionality",
+      "date": "2026-01-30"
+    },
+    {
+      "row": 75,
+      "task": "Initiate post-launch monitoring to ensure stability and performance",
+      "date": "2026-01-30"
+    },
+    {
+      "row": 69,
+      "task": "Frontier Production Go-Live Approval (CAB)",
+      "date": "2026-01-28"
+    },
+    {
+      "row": 70,
+      "task": "Present the deployment plan to the Change Advisory Board (CAB)",
+      "date": "2026-01-28"
+    },
+    {
+      "row": 71,
+      "task": "Secure final approval for the Production Go-Live",
+      "date": "2026-01-28"
+    },
+    {
+      "row": 39,
+      "task": "QA & Testing Phase",
+      "date": "2026-01-21"
+    },
+    {
+      "row": 57,
+      "task": "Frontier UAT Approval",
+      "date": "2026-01-21"
+    }
+  ],
+  "new_variance_issues": [
+    {
+      "row": 56,
+      "task": "Set the routing percentage for \u201cUnknown\u201d call types",
+      "old_variance": 0.0,
+      "new_variance": -2.0,
+      "assigned": "CSG"
+    },
+    {
+      "row": 62,
+      "task": "Configure the Signal API",
+      "old_variance": 0.0,
+      "new_variance": -22.0,
+      "assigned": "Cognigy"
+    }
+  ],
+  "updates_applied": {
+    "baselines": 54,
+    "predecessors": 22,
+    "compression_notes": 9,
+    "status_updates": 3
+  }
+}

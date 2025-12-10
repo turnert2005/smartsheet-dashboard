@@ -1,0 +1,140 @@
+{
+  "timestamp": "2025-12-09T21:27:58.354733",
+  "changes": [
+    {
+      "wbs": "1.5.1",
+      "task": "Validate VoiceGateway license prerequisites",
+      "old_note": "FPS REVIEW: Confirm predecessor row numbers are correct after reorder",
+      "new_note": "[12/10] CLARIFY @Chirag: Confirm predecessor row numbers correct after WBS reorder",
+      "action": "reformat"
+    },
+    {
+      "wbs": "1.5.2",
+      "task": "Deliver and validate Azure STT/TTS",
+      "old_note": "STAGING CREDENTIALS ONLY - Production credentials provisioned in 3.5 (Frontier: Production Credentials)",
+      "new_note": "[12/09] INFO: Staging credentials only - see 3.5 for production",
+      "action": "reformat"
+    },
+    {
+      "wbs": "1.6.2",
+      "task": "Optimize FAQ lookup for voice",
+      "old_note": "-12/09 - Completed; accuracy enhancements in progress.",
+      "new_note": "[12/09] STATUS: Complete; accuracy enhancements in progress",
+      "action": "reformat"
+    },
+    {
+      "wbs": "1.7.2",
+      "task": "Set up 800 test number (Staging)",
+      "old_note": "FPS REVIEW: Confirm DID count for 800 test number",
+      "new_note": "[12/10] CLARIFY @Angela: Confirm DID count for 800 test number",
+      "action": "reformat"
+    },
+    {
+      "wbs": "1.8.3",
+      "task": "Configure the Signal API",
+      "old_note": "CLARIFY 12/10: Signal API configuration - confirm if same API endpoint configured by each vendor or separate integrations",
+      "new_note": "[12/10] ACTION: Signal API - confirm if same endpoint configured by IGT/Cognigy or separate integrations (see also 3.3.3, 3.4.3)",
+      "action": "reformat"
+    },
+    {
+      "wbs": "1.10",
+      "task": "FPS: Partner Integrations Development",
+      "old_note": "FPS REVIEW: Clarify Signal API ownership - FPS or partner?",
+      "new_note": "[12/10] CLARIFY @Chirag: Signal API - FPS-developed or partner integration?",
+      "action": "reformat"
+    },
+    {
+      "wbs": "3.3.3",
+      "task": "Configure the Signal API",
+      "old_note": "CLARIFY 12/10: Signal API configuration - confirm if same API endpoint configured by each vendor or separate integrations",
+      "new_note": "[12/09] INFO: See 1.8.3 for Signal API clarification",
+      "action": "reformat"
+    },
+    {
+      "wbs": "3.4.3",
+      "task": "Configure the Signal API",
+      "old_note": "CLARIFY 12/10: Signal API configuration - confirm if same API endpoint configured by each vendor or separate integrations",
+      "new_note": "[12/09] INFO: See 1.8.3 for Signal API clarification",
+      "action": "reformat"
+    },
+    {
+      "wbs": "2.1",
+      "task": "FPS: QA Testing",
+      "old_note": "[12/09 Review] Schedule compression candidate - FPS QA Testing - evaluate overlap with partner integration testing\n[12/09 REVIEW REQUIRED] Date overlap with Development Phase:\n- FPS QA Testing starts Dec 26 but FPS Partner Integrations (1.10) ends Jan 7\n- QA cannot fully validate integrations not yet complete\n- Dec 26 start date falls on Boxing Day holiday\nACTION: FPS to confirm if (A) iterative testing approach is intended, or (B) QA should start after 1.10 completes (Jan 8)",
+      "new_note": "[12/09] COMPRESSION: Evaluate overlap with partner integrations + parallel test streams",
+      "action": "reformat"
+    },
+    {
+      "wbs": "2.2",
+      "task": "Frontier: UAT Testing",
+      "old_note": "[12/09 Review] Schedule compression candidate - Frontier UAT Testing - evaluate 5d->3d compression",
+      "new_note": "[12/09] COMPRESSION: Evaluate 8d to 5d reduction via parallel testing",
+      "action": "reformat"
+    },
+    {
+      "wbs": "3.6",
+      "task": "Frontier: CAB Approval",
+      "old_note": "[12/09 Review] Schedule compression candidate - CAB Approval window - evaluate 2d->1d compression",
+      "new_note": "[12/09] COMPRESSION: Evaluate 4d to 2d reduction - same-day presentation + approval",
+      "action": "reformat"
+    },
+    {
+      "wbs": "3.1",
+      "task": "Frontier: Production ARB Approval",
+      "old_note": "DEPENDENCY: ARB approval required before production deployment can begin",
+      "new_note": "[12/09] DEPENDENCY: ARB approval required before production deployment",
+      "action": "reformat"
+    },
+    {
+      "wbs": "3.2.2",
+      "task": "Set the routing percentage for \u201cUnknown\u201d call types",
+      "old_note": "CLARIFY: Confirm routing % for Unknown call types with CSG (Angela)",
+      "new_note": "[12/10] CLARIFY @Angela: Confirm routing % for Unknown call types",
+      "action": "reformat"
+    },
+    {
+      "wbs": "2.1.1",
+      "task": "Execute end-to-end test plan (QA)",
+      "old_note": "[12/09 Review] Schedule compression candidate - End-to-end test plan - evaluate automated test acceleration",
+      "new_note": "(cleared)",
+      "action": "clear"
+    },
+    {
+      "wbs": "2.1.2",
+      "task": "Complete QA environment testing",
+      "old_note": "[12/09 Review] Schedule compression candidate - QA environment testing - evaluate parallel test streams",
+      "new_note": "(cleared)",
+      "action": "clear"
+    },
+    {
+      "wbs": "2.2.1",
+      "task": "Execute end-to-end test plan (UAT)",
+      "old_note": "[12/09 Review] Schedule compression candidate - UAT test execution - evaluate parallel testing",
+      "new_note": "(cleared)",
+      "action": "clear"
+    },
+    {
+      "wbs": "2.2.2",
+      "task": "Complete UAT environment testing",
+      "old_note": "[12/09 Review] Schedule compression candidate - UAT environment testing - evaluate parallel testing",
+      "new_note": "(cleared)",
+      "action": "clear"
+    },
+    {
+      "wbs": "3.6.1",
+      "task": "Present deployment plan to CAB",
+      "old_note": "[12/09 Review] Schedule compression candidate - CAB presentation - single day possible if pre-staged",
+      "new_note": "(cleared)",
+      "action": "clear"
+    },
+    {
+      "wbs": "3.6.2",
+      "task": "Secure Go-Live approval",
+      "old_note": "[12/09 Review] Schedule compression candidate - CAB final approval - same day as presentation possible",
+      "new_note": "(cleared)",
+      "action": "clear"
+    }
+  ],
+  "total_notes": 13,
+  "meeting_items": 5
+}

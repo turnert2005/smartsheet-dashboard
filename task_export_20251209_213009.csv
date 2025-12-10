@@ -1,0 +1,78 @@
+Row,Tasks,WBS,Health,Status,Assigned To,Duration,Start Date,End Date,Baseline Start,Baseline Finish,Variance,Predecessors,Description,Notes
+1,Development Phase,1.0,Green,In Progress,FPS,43d,2025-11-05T08:00:00,2026-01-07T16:59:59,2025-11-05,2025-12-12,0.15,,,
+2,FPS Draft Proposal,1.1,Green,Complete,FPS,2d,2025-11-05T08:00:00,2025-11-06T16:59:59,2025-11-05,2025-11-05,,,,
+3,Draft initial proposal,1.1.1,Green,Complete,FPS,1d,2025-11-05T08:00:00,2025-11-05T16:59:59,2025-11-05,2025-11-05,,,,
+4,Submit for stakeholder review,1.1.2,Green,Complete,FPS,1d,2025-11-06T08:00:00,2025-11-06T16:59:59,2025-11-05,2025-11-05,-1.0,3FS,,
+5,FPS Final Proposal (SOW),1.2,Green,Complete,FPS,1d,2025-11-07T08:00:00,2025-11-07T16:59:59,2025-11-20,2025-11-20,1.0,2FS,,
+6,Finalize SOW contract,1.2.1,Green,Complete,FPS,1d,2025-11-07T08:00:00,2025-11-07T16:59:59,2025-11-20,2025-11-20,13.0,,,
+7,Submit SOW for signature,1.2.2,Green,Complete,FPS,1d,2025-11-07T08:00:00,2025-11-07T16:59:59,2025-11-20,2025-11-20,13.0,,,
+8,Frontier SOW Approval,1.3,Green,Complete,Frontier,1d,2025-11-10T08:00:00,2025-11-10T16:59:59,2025-11-21,2025-11-21,1.0,5FS,,
+9,Obtain formal SOW approval,1.3.1,Green,Complete,Frontier,1d,2025-11-10T08:00:00,2025-11-10T16:59:59,2025-11-21,2025-11-21,11.0,,,
+10,Frontier: Staging Setup,1.4,Green,Complete,Frontier,1d,2025-11-21T08:00:00,2025-11-21T16:59:59,2025-11-21,2025-11-21,,8FS,,
+11,Provision KnowledgeOwl APIs,1.4.1,Green,Complete,Frontier,1d,2025-11-21T08:00:00,2025-11-21T16:59:59,2025-11-21,2025-11-21,,,,
+12,Configure OpenAI LLM API key,1.4.2,Green,Complete,Frontier,1d,2025-11-21T08:00:00,2025-11-21T16:59:59,2025-11-21,2025-11-21,,,,
+13,Cognigy: Staging Setup Phase 1,1.5,Green,Complete,Cognigy,1d,2025-12-01T08:00:00,2025-12-01T16:59:59,2025-12-01,2025-12-01,,10FS,,
+14,Validate VoiceGateway license prerequisites,1.5.1,Green,Complete,Cognigy,1d,2025-12-01T08:00:00,2025-12-01T16:59:59,2025-12-01,2025-12-01,,,,[12/10] CLARIFY @Chirag: Confirm predecessor row numbers correct after WBS reorder
+15,Deliver and validate Azure STT/TTS,1.5.2,Green,Complete,Cognigy,1d,2025-12-01T08:00:00,2025-12-01T16:59:59,2025-12-01,2025-12-01,,,,[12/09] INFO: Staging credentials only - see 3.5 for production
+16,Provide voice-focused Cognigy templates,1.5.3,Green,Complete,Cognigy,1d,2025-12-01T08:00:00,2025-12-01T16:59:59,2025-12-01,2025-12-01,,,,
+17,FPS: Knowledgebase Development,1.6,Yellow,In Progress,FPS,13d,2025-11-21T08:00:00,2025-12-11T16:59:59,2025-12-14,2025-12-14,,10FS,,
+18,Validate KnowledgeOwl API,1.6.1,Green,Complete,FPS,13d,2025-11-21T08:00:00,2025-12-11T16:59:59,2025-12-08,2025-12-08,-3.0,,,
+19,Optimize FAQ lookup for voice,1.6.2,Green,Complete,FPS,13d,2025-11-21T08:00:00,2025-12-11T16:59:59,2025-12-08,2025-12-08,-3.0,,,[12/09] STATUS: Complete; accuracy enhancements in progress
+20,Implement query fallback logic,1.6.3,Green,Complete,FPS,13d,2025-11-21T08:00:00,2025-12-11T16:59:59,2025-12-08,2025-12-08,-3.0,,,
+21,Tune LLM responses,1.6.4,Yellow,In Progress,FPS,13d,2025-11-21T08:00:00,2025-12-11T16:59:59,2025-12-14,2025-12-14,-3.0,,,
+22,CSG: Staging Setup,1.7,Yellow,In Progress,CSG,5d,2025-12-08T08:00:00,2025-12-12T16:59:59,2025-12-21,2025-12-21,1.0,8FS,,
+23,Configure IVR routing (SIP REFER) - Staging,1.7.1,Yellow,In Progress,CSG,5d,2025-12-08T08:00:00,2025-12-12T16:59:59,2025-12-21,2025-12-21,3.0,,,
+24,Set up 800 test number (Staging),1.7.2,Yellow,In Progress,CSG,5d,2025-12-08T08:00:00,2025-12-12T16:59:59,2025-12-21,2025-12-21,3.0,,,[12/10] CLARIFY @Angela: Confirm DID count for 800 test number
+25,IGT: Staging Setup,1.8,Yellow,Not Started,IGT,12d,2025-12-08T08:00:00,2025-12-23T16:59:59,2025-12-14,2025-12-14,,8FS,,[12/10] ACTION @Sandeep: Confirm Dec 23 SIP trunk completion - critical path blocker
+26,Configure 800 number (SIP REFER),1.8.1,Red,Not Started,IGT,12d,2025-12-08T08:00:00,2025-12-23T16:59:59,2025-12-14,2025-12-14,-15.0,,,
+27,Set up SIP trunks (NICE CXone),1.8.2,Red,Not Started,IGT,12d,2025-12-08T08:00:00,2025-12-23T16:59:59,2025-12-14,2025-12-14,-15.0,,,
+28,Configure the Signal API,1.8.3,Red,Not Started,IGT,12d,2025-12-08T08:00:00,2025-12-23T16:59:59,2025-12-14,2025-12-14,-15.0,,,"[12/10] ACTION: Signal API - confirm if same endpoint configured by IGT/Cognigy or separate integrations (see also 3.3.3, 3.4.3)"
+29,Complete queue mapping,1.8.4,Red,Not Started,IGT,12d,2025-12-08T08:00:00,2025-12-23T16:59:59,2025-12-14,2025-12-14,-15.0,,,
+30,Provision 8 DID test numbers,1.8.5,Red,Not Started,IGT,12d,2025-12-08T08:00:00,2025-12-23T16:59:59,2025-12-14,2025-12-14,-15.0,,,
+31,Cognigy: Staging Setup Phase 2,1.9,Green,In Progress,Cognigy,3d,2025-12-26T08:00:00,2025-12-30T16:59:59,2025-12-14,2025-12-14,,13FS,,
+32,Provision VoiceGateway,1.9.1,Green,Complete,Cognigy,3d,2025-12-26T08:00:00,2025-12-30T16:59:59,2025-12-08,2025-12-08,-22.0,13FS,,
+33,Connect SIP trunks,1.9.2,Red,Not Started,Cognigy,3d,2025-12-26T08:00:00,2025-12-30T16:59:59,2025-12-14,2025-12-14,-22.0,18FS,,
+34,Assign numbers,1.9.3,Red,Not Started,Cognigy,3d,2025-12-26T08:00:00,2025-12-30T16:59:59,2025-12-14,2025-12-14,-22.0,19FS,,
+35,Create SIP flow,1.9.4,Red,Not Started,Cognigy,3d,2025-12-26T08:00:00,2025-12-30T16:59:59,2025-12-14,2025-12-14,-22.0,20FS,,
+36,FPS: Partner Integrations Development,1.10,Green,Not Started,FPS,9d,2025-12-26T08:00:00,2026-01-07T16:59:59,2025-12-18,2025-12-18,,,,[12/10] CLARIFY @Chirag: Signal API - FPS-developed or partner integration?
+37,Implement partner API integrations,1.10.1,Red,Not Started,FPS,9d,2025-12-26T08:00:00,2026-01-07T16:59:59,2025-12-18,2025-12-18,-26.0,28FS,,
+38,Set up data exchange endpoints,1.10.2,Red,Not Started,FPS,9d,2025-12-26T08:00:00,2026-01-07T16:59:59,2025-12-18,2025-12-18,-26.0,37FS,,
+39,QA & Testing Phase,2.0,Green,Not Started,FPS,19d,2025-12-26T08:00:00,2026-01-21T16:59:59,2025-12-14,2025-12-25,,,,
+40,FPS: QA Testing,2.1,Green,Not Started,FPS,8d,2025-12-26T08:00:00,2026-01-06T16:59:59,2025-12-14,2025-12-18,,36FS,,[12/09] COMPRESSION: Evaluate overlap with partner integrations + parallel test streams
+41,Execute end-to-end test plan (QA),2.1.1,Red,Not Started,FPS,8d,2025-12-26T08:00:00,2026-01-06T16:59:59,2025-12-14,2025-12-18,-25.0,40SS,,
+42,Complete QA environment testing,2.1.2,Red,Not Started,FPS,8d,2025-12-26T08:00:00,2026-01-06T16:59:59,2025-12-14,2025-12-18,-25.0,41SS,,
+43,Deploy Intent V2 to UAT,2.1.3,Red,Not Started,Andrew,2d,,,,,,41FS,,
+44,Frontier: UAT Testing,2.2,Green,Not Started,Frontier,8d,2026-01-08T08:00:00,2026-01-19T16:59:59,2025-12-21,2025-12-25,,40FS +1d,,[12/09] COMPRESSION: Evaluate 8d to 5d reduction via parallel testing
+45,Execute end-to-end test plan (UAT),2.2.1,Red,Not Started,Frontier,8d,2026-01-08T08:00:00,2026-01-19T16:59:59,2025-12-21,2025-12-25,-31.0,40FS +1d,,
+46,Complete UAT environment testing,2.2.2,Red,Not Started,Frontier,8d,2026-01-08T08:00:00,2026-01-19T16:59:59,2025-12-21,2025-12-25,-31.0,40FS +1d,,
+47,Frontier: UAT Approval,2.3,Green,Not Started,Frontier,1d,2026-01-21T08:00:00,2026-01-21T16:59:59,2025-12-25,2025-12-25,,44FS +1d,,
+48,Obtain formal UAT sign-off,2.3.1,Red,Not Started,Frontier,1d,2026-01-21T08:00:00,2026-01-21T16:59:59,2025-12-25,2025-12-25,-33.0,44FS +1d,,
+49,Production Deployment,3.0,Yellow,Not Started,FPS,44d,2025-12-01T08:00:00,2026-01-30T16:59:59,2025-12-28,2026-01-13,,51FS,,
+50,Frontier: Production ARB Approval,3.1,Green,In Progress,Frontier,14d,2025-12-01T08:00:00,2025-12-18T16:59:59,2025-12-07,2025-12-14,,17FS,,"[12/09] DEPENDENCY: ARB approval required before production deployment
+[12/10] ACTION @Frontier: Confirm ARB meeting scheduled"
+51,Secure ARB approval,3.1.1,Green,In Progress,Frontier,14d,2025-12-01T08:00:00,2025-12-18T16:59:59,2025-12-07,2025-12-14,,,,
+52,Validate KnowledgeOwl APIs,3.1.2,Green,Complete,Frontier,6d,2025-12-01T08:00:00,2025-12-08T16:59:59,2025-12-01,2025-12-08,,,,
+53,CSG: Production Setup,3.2,Green,In Progress,CSG,6d,2025-12-19T08:00:00,2025-12-29T16:59:59,2025-12-23,2025-12-23,,22FS,,
+54,Configure IVR routing (SIP REFER) - Production,3.2.1,Yellow,In Progress,CSG,6d,2025-12-19T08:00:00,2025-12-29T16:59:59,2025-12-23,2025-12-23,-2.0,,,
+55,Set the routing percentage for “Unknown” call types,3.2.2,Yellow,In Progress,CSG,6d,2025-12-19T08:00:00,2025-12-29T16:59:59,2025-12-23,2025-12-23,-2.0,,,[12/10] CLARIFY @Angela: Confirm routing % for Unknown call types
+56,Cognigy: Production Setup,3.3,Green,Not Started,Cognigy,8d,2025-12-19T08:00:00,2025-12-31T16:59:59,2025-12-21,2025-12-21,,17FS,,
+57,Provision 800 number (Cognigy),3.3.1,Red,Not Started,Cognigy,8d,2025-12-19T08:00:00,2025-12-31T16:59:59,2025-12-21,2025-12-21,-22.0,46SS,,
+58,Set up SIP trunks (to Cognigy),3.3.2,Red,Not Started,Cognigy,8d,2025-12-19T08:00:00,2025-12-31T16:59:59,2025-12-21,2025-12-21,-22.0,47FS,,
+59,Configure the Signal API,3.3.3,Red,Not Started,Cognigy,8d,2025-12-19T08:00:00,2025-12-31T16:59:59,2025-12-21,2025-12-21,-22.0,48FS,,[12/09] INFO: See 1.8.3 for Signal API clarification
+60,Provision 2 DID test numbers,3.3.4,Red,Not Started,Cognigy,8d,2025-12-19T08:00:00,2025-12-31T16:59:59,2025-12-21,2025-12-21,-22.0,49FS,,
+61,IGT: Production Setup,3.4,Green,Not Started,IGT,9d,2025-12-19T08:00:00,2026-01-01T16:59:59,2025-12-21,2025-12-21,,22FS,,
+62,Provision 800 number (IGT),3.4.1,Red,Not Started,IGT,9d,2025-12-19T08:00:00,2026-01-01T16:59:59,2025-12-21,2025-12-21,-23.0,51SS,,
+63,Set up SIP trunks,3.4.2,Red,Not Started,IGT,9d,2025-12-19T08:00:00,2026-01-01T16:59:59,2025-12-21,2025-12-21,-23.0,52FS,,
+64,Configure the Signal API,3.4.3,Red,Not Started,IGT,9d,2025-12-19T08:00:00,2026-01-01T16:59:59,2025-12-21,2025-12-21,-23.0,53FS,,[12/09] INFO: See 1.8.3 for Signal API clarification
+65,Provision 2 DID test numbers,3.4.4,Red,Not Started,IGT,9d,2025-12-19T08:00:00,2026-01-01T16:59:59,2025-12-21,2025-12-21,-23.0,54FS,,
+66,Frontier: Production Credentials,3.5,Green,In Progress,Frontier,9d,2025-12-19T08:00:00,2026-01-01T16:59:59,2025-12-28,2026-01-11,,51FS,,
+67,Provision Azure Speech STT keys,3.5.1,Red,In Progress,Frontier,9d,2025-12-19T08:00:00,2026-01-01T16:59:59,2025-12-28,2026-01-11,-30.0,51FS,,
+68,Provision Azure Speech TTS keys,3.5.2,Red,In Progress,Frontier,9d,2025-12-19T08:00:00,2026-01-01T16:59:59,2025-12-28,2026-01-11,-30.0,51FS,,
+69,Set up OpenAI LLM credentials,3.5.3,Red,Not Started,Frontier,9d,2025-12-19T08:00:00,2026-01-01T16:59:59,2025-12-28,2026-01-11,-30.0,51FS,,
+70,Frontier: CAB Approval,3.6,Green,Not Started,Frontier,4d,2026-01-23T08:00:00,2026-01-28T16:59:59,2026-01-11,2026-01-12,,62FS +1d,,[12/09] COMPRESSION: Evaluate 4d to 2d reduction - same-day presentation + approval
+71,Present deployment plan to CAB,3.6.1,Red,Not Started,Frontier,4d,2026-01-23T08:00:00,2026-01-28T16:59:59,2026-01-11,2026-01-12,-22.0,47FS +1d,,
+72,Secure Go-Live approval,3.6.2,Red,Not Started,Frontier,4d,2026-01-23T08:00:00,2026-01-28T16:59:59,2026-01-11,2026-01-12,-22.0,47FS +1d,,
+73,FPS: Production Deployment,3.7,Green,Not Started,FPS,1d,2026-01-30T08:00:00,2026-01-30T16:59:59,2026-01-13,2026-01-13,,69FS +1d,,
+74,Deploy to Production,3.7.1,Red,Not Started,FPS,1d,2026-01-30T08:00:00,2026-01-30T16:59:59,2026-01-13,2026-01-13,-23.0,70FS +1d,,
+75,Perform sanity testing,3.7.2,Red,Not Started,FPS,1d,2026-01-30T08:00:00,2026-01-30T16:59:59,2026-01-13,2026-01-13,-23.0,70FS +1d,,
+76,Initiate post-launch monitoring,3.7.3,Red,Not Started,FPS,1d,2026-01-30T08:00:00,2026-01-30T16:59:59,2026-01-13,2026-01-13,-23.0,70FS +1d,,

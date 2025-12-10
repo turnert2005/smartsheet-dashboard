@@ -1,0 +1,109 @@
+{
+  "timestamp": "2025-12-09T20:16:38.804979",
+  "dry_run": true,
+  "total_changes": 17,
+  "changes": [
+    {
+      "row": 2,
+      "row_id": 4880335066566532,
+      "old_name": "CSG Staging Dependencies Complete (Testing)",
+      "new_name": "CSG: Staging Setup"
+    },
+    {
+      "row": 13,
+      "row_id": 658210415906692,
+      "old_name": "Frontier Staging Dependencies Complete",
+      "new_name": "Frontier: Staging Setup"
+    },
+    {
+      "row": 16,
+      "row_id": 5161810043277188,
+      "old_name": "Cognigy Staging Dependencies Phase 1",
+      "new_name": "Cognigy: Staging Setup Phase 1"
+    },
+    {
+      "row": 20,
+      "row_id": 2910010229591940,
+      "old_name": "Cognigy Staging Dependencies Phase 2",
+      "new_name": "Cognigy: Staging Setup Phase 2"
+    },
+    {
+      "row": 25,
+      "row_id": 7413609856962436,
+      "old_name": "IGT Staging Dependencies Complete",
+      "new_name": "IGT: Staging Setup"
+    },
+    {
+      "row": 31,
+      "row_id": 1784110322749316,
+      "old_name": "FPS Development - Knowledgebase",
+      "new_name": "FPS: Knowledgebase Development"
+    },
+    {
+      "row": 36,
+      "row_id": 6287709950119812,
+      "old_name": "Frontier Production Dependencies Complete",
+      "new_name": "Frontier: Production Setup"
+    },
+    {
+      "row": 39,
+      "row_id": 4035910136434564,
+      "old_name": "FPS Development - Partner Integrations",
+      "new_name": "FPS: Partner Integrations Development"
+    },
+    {
+      "row": 43,
+      "row_id": 376735439196036,
+      "old_name": "FPS QA Testing",
+      "new_name": "FPS: QA Testing"
+    },
+    {
+      "row": 46,
+      "row_id": 1502635346038660,
+      "old_name": "Frontier UAT Testing",
+      "new_name": "Frontier: UAT Testing"
+    },
+    {
+      "row": 49,
+      "row_id": 3754435159723908,
+      "old_name": "Frontier UAT Approval",
+      "new_name": "Frontier: UAT Approval"
+    },
+    {
+      "row": 52,
+      "row_id": 7132134880251780,
+      "old_name": "IGT Production Dependencies Complete",
+      "new_name": "IGT: Production Setup"
+    },
+    {
+      "row": 57,
+      "row_id": 2628535252881284,
+      "old_name": "Cognigy Production Dependencies Complete",
+      "new_name": "Cognigy: Production Setup"
+    },
+    {
+      "row": 62,
+      "row_id": 6006234973409156,
+      "old_name": "CSG Production Dependencies Complete (UAT Approval)",
+      "new_name": "CSG: Production Setup"
+    },
+    {
+      "row": 65,
+      "row_id": 939685392617348,
+      "old_name": "Frontier Production Dependencies Complete",
+      "new_name": "Frontier: Production Setup"
+    },
+    {
+      "row": 69,
+      "row_id": 5443285019987844,
+      "old_name": "Frontier Production Go-Live Approval (CAB)",
+      "new_name": "Frontier: CAB Approval"
+    },
+    {
+      "row": 72,
+      "row_id": 3191485206302596,
+      "old_name": "FPS Production Deployment",
+      "new_name": "FPS: Production Deployment"
+    }
+  ]
+}

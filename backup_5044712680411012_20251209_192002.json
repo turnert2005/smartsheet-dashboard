@@ -1,0 +1,5332 @@
+{
+  "timestamp": "2025-12-09T19:20:02.904520",
+  "sheet_name": "1. Phase 2 - Agentic Voice Task Sheet",
+  "sheet_id": 5044712680411012,
+  "rows": [
+    {
+      "row_id": 4070495058595716,
+      "row_number": 1,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Development Phase",
+          "display_value": "Development Phase"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "43d",
+          "display_value": "43d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-05T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-05",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-12",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.04,
+          "display_value": "0.04"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 5724759996698500,
+      "row_number": 2,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "FPS Draft Proposal",
+          "display_value": "FPS Draft Proposal"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "2d",
+          "display_value": "2d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-05T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-11-06T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-05",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-11-05",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 1146662750195588,
+      "row_number": 3,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Draft the initial proposal for the Agentic Voice project",
+          "display_value": "Draft the initial proposal for the Agentic Voice project"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-05T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-11-05T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-05",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-11-05",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 6776162284408708,
+      "row_number": 4,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Submit the proposal for stakeholder review",
+          "display_value": "Submit the proposal for stakeholder review"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-06T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-11-06T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-05",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-11-05",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -1.0,
+          "display_value": "-1"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "3FS",
+          "display_value": "3FS"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 3472960183013252,
+      "row_number": 5,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "FPS Final Proposal (SOW)",
+          "display_value": "FPS Final Proposal (SOW)"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-07T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-11-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-20",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-11-20",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 1.0,
+          "display_value": "1"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "2FS",
+          "display_value": "2FS"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 4626549406371716,
+      "row_number": 6,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Finalize the Statement of Work (SOW) contract",
+          "display_value": "Finalize the Statement of Work (SOW) contract"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-07T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-11-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-20",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-11-20",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 13.0,
+          "display_value": "13"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 2374749592686468,
+      "row_number": 7,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Submit the SOW for signature",
+          "display_value": "Submit the SOW for signature"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-07T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-11-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-20",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-11-20",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 13.0,
+          "display_value": "13"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 7976559810383748,
+      "row_number": 8,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Frontier SOW Approval",
+          "display_value": "Frontier SOW Approval"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-10T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-11-10T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-21",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-11-21",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 1.0,
+          "display_value": "1"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "5FS",
+          "display_value": "5FS"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 6878349220056964,
+      "row_number": 9,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Obtain formal approval on the Statement of Work (SOW).",
+          "display_value": "Obtain formal approval on the Statement of Work (SOW)."
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-10T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-11-10T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-21",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-11-21",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 11.0,
+          "display_value": "11"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 658210415906692,
+      "row_number": 10,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Frontier Staging Dependencies Complete",
+          "display_value": "Frontier Staging Dependencies Complete"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-21T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-11-21T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-21",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-11-21",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 7436471499689860,
+      "row_number": 11,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Provision KnowledgeOwl APIs for the Staging environment",
+          "display_value": "Provision KnowledgeOwl APIs for the Staging environment"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-21T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-11-21T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-21",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-11-21",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 2932871872319364,
+      "row_number": 12,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Generate and configure the OpenAI LLM (gpt-4o-mini) API key for Staging",
+          "display_value": "Generate and configure the OpenAI LLM (gpt-4o-mini) API key for Staging"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-21T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-11-21T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-11-21",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-11-21",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 5161810043277188,
+      "row_number": 13,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Cognigy Staging Dependencies Phase 1",
+          "display_value": "Cognigy Staging Dependencies Phase 1"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-01T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-01T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-01",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-01",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 6310571592847236,
+      "row_number": 14,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Activate and validate VoiceGateway licenses",
+          "display_value": "Activate and validate VoiceGateway licenses"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-01T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-01T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-01",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-01",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 1806971965476740,
+      "row_number": 15,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Deliver and validate Azure STT/TTS",
+          "display_value": "Deliver and validate Azure STT/TTS"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-01T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-01T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-01",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-01",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 2407935307091844,
+      "row_number": 16,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Provide voice-focused Cognigy templates",
+          "display_value": "Provide voice-focused Cognigy templates"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-01T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-01T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-01",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-01",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 2910010229591940,
+      "row_number": 17,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Cognigy Staging Dependencies Phase 2",
+          "display_value": "Cognigy Staging Dependencies Phase 2"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "In Progress",
+          "display_value": "In Progress"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "3d",
+          "display_value": "3d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-30T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 5056526098567044,
+      "row_number": 18,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Provision VoiceGateway",
+          "display_value": "Provision VoiceGateway"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "3d",
+          "display_value": "3d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-30T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -22.0,
+          "display_value": "-22"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 552926471196548,
+      "row_number": 19,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Connect SIP trunks",
+          "display_value": "Connect SIP trunks"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "3d",
+          "display_value": "3d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-30T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -22.0,
+          "display_value": "-22"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 1282035400249220,
+      "row_number": 20,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Assign numbers",
+          "display_value": "Assign numbers"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "3d",
+          "display_value": "3d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-30T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -22.0,
+          "display_value": "-22"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 6911534934462340,
+      "row_number": 21,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Create SIP flow",
+          "display_value": "Create SIP flow"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "3d",
+          "display_value": "3d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-30T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -22.0,
+          "display_value": "-22"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 7413609856962436,
+      "row_number": 22,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "IGT Staging Dependencies Complete",
+          "display_value": "IGT Staging Dependencies Complete"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Yellow",
+          "display_value": "Yellow"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "IGT",
+          "display_value": "IGT"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "12d",
+          "display_value": "12d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-23T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 3930626191724420,
+      "row_number": 23,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Configure 800 number for SIP REFER for CSG Lookup",
+          "display_value": "Configure 800 number for SIP REFER for CSG Lookup"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "IGT",
+          "display_value": "IGT"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "12d",
+          "display_value": "12d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-23T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -15.0,
+          "display_value": "-15"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 6182426005409668,
+      "row_number": 24,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Set up SIP trunks via NICE CXone",
+          "display_value": "Set up SIP trunks via NICE CXone"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "IGT",
+          "display_value": "IGT"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "12d",
+          "display_value": "12d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-23T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -15.0,
+          "display_value": "-15"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 1678826378039172,
+      "row_number": 25,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Configure the Signal API",
+          "display_value": "Configure the Signal API"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "IGT",
+          "display_value": "IGT"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "12d",
+          "display_value": "12d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-23T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -15.0,
+          "display_value": "-15"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": "12/05 - Sandeep (IGT) mentioned the configuration will take another 2\u20133 weeks, which means we can target December 23rd for completion.",
+          "display_value": "12/05 - Sandeep (IGT) mentioned the configuration will take another 2\u20133 weeks, which means we can target December 23rd for completion."
+        }
+      ]
+    },
+    {
+      "row_id": 7308325912252292,
+      "row_number": 26,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Complete queue mapping",
+          "display_value": "Complete queue mapping"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "IGT",
+          "display_value": "IGT"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "12d",
+          "display_value": "12d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-23T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -15.0,
+          "display_value": "-15"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 2804726284881796,
+      "row_number": 27,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Provision 8 DID test numbers",
+          "display_value": "Provision 8 DID test numbers"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "IGT",
+          "display_value": "IGT"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "12d",
+          "display_value": "12d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-23T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -15.0,
+          "display_value": "-15"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 1784110322749316,
+      "row_number": 28,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "FPS Development - Knowledgebase",
+          "display_value": "FPS Development - Knowledgebase"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Yellow",
+          "display_value": "Yellow"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "In Progress",
+          "display_value": "In Progress"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "13d",
+          "display_value": "13d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-21T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-11T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 3367676238303108,
+      "row_number": 29,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Validate the KnowledgeOwl API",
+          "display_value": "Validate the KnowledgeOwl API"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "13d",
+          "display_value": "13d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-21T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-11T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -3.0,
+          "display_value": "-3"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 5619476051988356,
+      "row_number": 30,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Optimize FAQ lookup specifically for voice interactions",
+          "display_value": "Optimize FAQ lookup specifically for voice interactions"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "13d",
+          "display_value": "13d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-21T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-11T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -3.0,
+          "display_value": "-3"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": "-12/09 - Completed; accuracy enhancements in progress.",
+          "display_value": "-12/09 - Completed; accuracy enhancements in progress."
+        }
+      ]
+    },
+    {
+      "row_id": 1115876424617860,
+      "row_number": 31,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Implement fallback logic for unanswered or unclear queries",
+          "display_value": "Implement fallback logic for unanswered or unclear queries"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "13d",
+          "display_value": "13d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-21T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-11T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -3.0,
+          "display_value": "-3"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 8434225819094916,
+      "row_number": 32,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Tune LLM responses for accuracy and clarity",
+          "display_value": "Tune LLM responses for accuracy and clarity"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Yellow",
+          "display_value": "Yellow"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "In Progress",
+          "display_value": "In Progress"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "13d",
+          "display_value": "13d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-11-21T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-11T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -3.0,
+          "display_value": "-3"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 6287709950119812,
+      "row_number": 33,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Frontier Production Dependencies Complete",
+          "display_value": "Frontier Production Dependencies Complete"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "In Progress",
+          "display_value": "In Progress"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "14d",
+          "display_value": "14d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-01T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-18T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-01",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 7871275865673604,
+      "row_number": 34,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Secure Architecture Review Board (ARB) approval",
+          "display_value": "Secure Architecture Review Board (ARB) approval"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "In Progress",
+          "display_value": "In Progress"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "14d",
+          "display_value": "14d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-01T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-18T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-01",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 2241776331460484,
+      "row_number": 35,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Validate Production KnowledgeOwl APIs",
+          "display_value": "Validate Production KnowledgeOwl APIs"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Complete",
+          "display_value": "Complete"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "6d",
+          "display_value": "6d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-01T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-08T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-01",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 4035910136434564,
+      "row_number": 36,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "FPS Development - Partner Integrations",
+          "display_value": "FPS Development - Partner Integrations"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-12",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-12",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 4493576145145732,
+      "row_number": 37,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Implement required partner API integrations",
+          "display_value": "Implement required partner API integrations"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-12",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-12",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -26.0,
+          "display_value": "-26"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 6745375958830980,
+      "row_number": 38,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Set up the necessary data exchange endpoints",
+          "display_value": "Set up the necessary data exchange endpoints"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-12",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-12",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -26.0,
+          "display_value": "-26"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 8331586707591044,
+      "row_number": 39,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "QA & Testing Phase",
+          "display_value": "QA & Testing Phase"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Yellow",
+          "display_value": "Yellow"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "32d",
+          "display_value": "32d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-21T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-19",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.11,
+          "display_value": "0.11"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 376735439196036,
+      "row_number": 40,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "FPS QA Testing",
+          "display_value": "FPS QA Testing"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "8d",
+          "display_value": "8d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-06T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-12",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 16364796841860,
+      "row_number": 41,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Execute the full end-to-end Agentic Voice test plan",
+          "display_value": "Execute the full end-to-end Agentic Voice test plan"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "8d",
+          "display_value": "8d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-06T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-12",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -25.0,
+          "display_value": "-25"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 8997175772516228,
+      "row_number": 42,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Perform all testing within the QA environment",
+          "display_value": "Perform all testing within the QA environment"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "8d",
+          "display_value": "8d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-06T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-08",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-12",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -25.0,
+          "display_value": "-25"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 4880335066566532,
+      "row_number": 43,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "CSG Staging Dependencies Complete (Testing)",
+          "display_value": "CSG Staging Dependencies Complete (Testing)"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Yellow",
+          "display_value": "Yellow"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "CSG",
+          "display_value": "CSG"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "5d",
+          "display_value": "5d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-12T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 1.0,
+          "display_value": "1"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 2268164610527108,
+      "row_number": 44,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Configure IVR call routing using SIP REFER to IGT",
+          "display_value": "Configure IVR call routing using SIP REFER to IGT"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Yellow",
+          "display_value": "Yellow"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "CSG",
+          "display_value": "CSG"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "5d",
+          "display_value": "5d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-12T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 3.0,
+          "display_value": "3"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 4519964424212356,
+      "row_number": 45,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Set up the 800 test number for the direct_AI English flow",
+          "display_value": "Set up the 800 test number for the direct_AI English flow"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Yellow",
+          "display_value": "Yellow"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "CSG",
+          "display_value": "CSG"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "5d",
+          "display_value": "5d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-12T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 3.0,
+          "display_value": "3"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 2628535252881284,
+      "row_number": 46,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Cognigy Production Dependencies Complete",
+          "display_value": "Cognigy Production Dependencies Complete"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "8d",
+          "display_value": "8d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-06T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 3394064517369732,
+      "row_number": 47,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Provision the Production 800 number",
+          "display_value": "Provision the Production 800 number"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "8d",
+          "display_value": "8d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-06T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -22.0,
+          "display_value": "-22"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 5645864331054980,
+      "row_number": 48,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Set up SIP trunks to Cognigy",
+          "display_value": "Set up SIP trunks to Cognigy"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "8d",
+          "display_value": "8d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-06T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -22.0,
+          "display_value": "-22"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 1142264703684484,
+      "row_number": 49,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Configure the Signal API",
+          "display_value": "Configure the Signal API"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "8d",
+          "display_value": "8d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-06T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -22.0,
+          "display_value": "-22"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 6771764237897604,
+      "row_number": 50,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Provision 2 DID test numbers",
+          "display_value": "Provision 2 DID test numbers"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Cognigy",
+          "display_value": "Cognigy"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "8d",
+          "display_value": "8d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-06T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -22.0,
+          "display_value": "-22"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 7132134880251780,
+      "row_number": 51,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "IGT Production Dependencies Complete",
+          "display_value": "IGT Production Dependencies Complete"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "IGT",
+          "display_value": "IGT"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 2831114563948420,
+      "row_number": 52,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Provision the 800 number for production",
+          "display_value": "Provision the 800 number for production"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "IGT",
+          "display_value": "IGT"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -23.0,
+          "display_value": "-23"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 5082914377633668,
+      "row_number": 53,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Set up SIP trunks to Cognigy",
+          "display_value": "Set up SIP trunks to Cognigy"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "IGT",
+          "display_value": "IGT"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -23.0,
+          "display_value": "-23"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 579314750263172,
+      "row_number": 54,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Configure the Signal API",
+          "display_value": "Configure the Signal API"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "IGT",
+          "display_value": "IGT"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -23.0,
+          "display_value": "-23"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 7897664144740228,
+      "row_number": 55,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Provision 2 DID test numbers",
+          "display_value": "Provision 2 DID test numbers"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "IGT",
+          "display_value": "IGT"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-26T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-07T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -23.0,
+          "display_value": "-23"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "24FS +1d",
+          "display_value": "24FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 1502635346038660,
+      "row_number": 56,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Frontier UAT Testing",
+          "display_value": "Frontier UAT Testing"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "8d",
+          "display_value": "8d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-19T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-19",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "40FS +1d",
+          "display_value": "40FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 1705214657105796,
+      "row_number": 57,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Execute the full end-to-end Agentic Voice test plan",
+          "display_value": "Execute the full end-to-end Agentic Voice test plan"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "8d",
+          "display_value": "8d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-19T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-19",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -31.0,
+          "display_value": "-31"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "40FS +1d",
+          "display_value": "40FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 7334714191318916,
+      "row_number": 58,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Perform all testing within the UAT environment",
+          "display_value": "Perform all testing within the UAT environment"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "8d",
+          "display_value": "8d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-08T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-19T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-15",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-19",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -31.0,
+          "display_value": "-31"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "40FS +1d",
+          "display_value": "40FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 6006234973409156,
+      "row_number": 59,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "CSG Production Dependencies Complete (UAT Approval)",
+          "display_value": "CSG Production Dependencies Complete (UAT Approval)"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "In Progress",
+          "display_value": "In Progress"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "CSG",
+          "display_value": "CSG"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "6d",
+          "display_value": "6d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-12T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-19T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-17",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-17",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 8202281348435844,
+      "row_number": 60,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Configure Production IVR call routing using SIP REFER",
+          "display_value": "Configure Production IVR call routing using SIP REFER"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Yellow",
+          "display_value": "Yellow"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "In Progress",
+          "display_value": "In Progress"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "CSG",
+          "display_value": "CSG"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "6d",
+          "display_value": "6d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-12T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-19T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-17",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-17",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -2.0,
+          "display_value": "-2"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 883931953958788,
+      "row_number": 61,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Set the routing percentage for \u201cUnknown\u201d call types",
+          "display_value": "Set the routing percentage for \u201cUnknown\u201d call types"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Yellow",
+          "display_value": "Yellow"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "In Progress",
+          "display_value": "In Progress"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "CSG",
+          "display_value": "CSG"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "6d",
+          "display_value": "6d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-12T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2025-12-19T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-17",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-17",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -2.0,
+          "display_value": "-2"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 3754435159723908,
+      "row_number": 62,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Frontier UAT Approval",
+          "display_value": "Frontier UAT Approval"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-21T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-21T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-19",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-19",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "56FS +1d",
+          "display_value": "56FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 5387531581329284,
+      "row_number": 63,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Obtain formal UAT sign-off",
+          "display_value": "Obtain formal UAT sign-off"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-21T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-21T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-19",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2025-12-19",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -33.0,
+          "display_value": "-33"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "56FS +1d",
+          "display_value": "56FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 8258034787094404,
+      "row_number": 64,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Production Deployment",
+          "display_value": "Production Deployment"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "30d",
+          "display_value": "30d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-19T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-30T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-22",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-07",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "34FS",
+          "display_value": "34FS"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 939685392617348,
+      "row_number": 65,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Frontier Production Dependencies Complete",
+          "display_value": "Frontier Production Dependencies Complete"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "In Progress",
+          "display_value": "In Progress"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-19T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-01T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-22",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-05",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "34FS",
+          "display_value": "34FS"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 3135731767644036,
+      "row_number": 66,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Provision Production Azure AI Speech STT keys",
+          "display_value": "Provision Production Azure AI Speech STT keys"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "In Progress",
+          "display_value": "In Progress"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-19T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-01T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-22",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-05",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -30.0,
+          "display_value": "-30"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "34FS",
+          "display_value": "34FS"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 7639331395014532,
+      "row_number": 67,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Provision Production Azure AI Speech TTS keys",
+          "display_value": "Provision Production Azure AI Speech TTS keys"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "In Progress",
+          "display_value": "In Progress"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-19T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-01T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-22",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-05",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -30.0,
+          "display_value": "-30"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "34FS",
+          "display_value": "34FS"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 2009831860801412,
+      "row_number": 68,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Set up Production OpenAI LLM credentials",
+          "display_value": "Set up Production OpenAI LLM credentials"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "9d",
+          "display_value": "9d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2025-12-19T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-01T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2025-12-22",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-05",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -30.0,
+          "display_value": "-30"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "34FS",
+          "display_value": "34FS"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 5443285019987844,
+      "row_number": 69,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Frontier Production Go-Live Approval (CAB)",
+          "display_value": "Frontier Production Go-Live Approval (CAB)"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "4d",
+          "display_value": "4d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-23T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-28T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2026-01-05",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-06",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "62FS +1d",
+          "display_value": "62FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 6513431488171908,
+      "row_number": 70,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Present the deployment plan to the Change Advisory Board (CAB)",
+          "display_value": "Present the deployment plan to the Change Advisory Board (CAB)"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "4d",
+          "display_value": "4d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-23T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-28T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2026-01-05",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-06",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -22.0,
+          "display_value": "-22"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "62FS +1d",
+          "display_value": "62FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 4261631674486660,
+      "row_number": 71,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Secure final approval for the Production Go-Live",
+          "display_value": "Secure final approval for the Production Go-Live"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "Frontier",
+          "display_value": "Frontier"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "4d",
+          "display_value": "4d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-23T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-28T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2026-01-05",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-06",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -22.0,
+          "display_value": "-22"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "62FS +1d",
+          "display_value": "62FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 3191485206302596,
+      "row_number": 72,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "FPS Production Deployment",
+          "display_value": "FPS Production Deployment"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Green",
+          "display_value": "Green"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-30T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-30T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2026-01-07",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-07",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": 0.0,
+          "display_value": "0"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "69FS +1d",
+          "display_value": "69FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 8765231301857156,
+      "row_number": 73,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Deploy the solution to Production",
+          "display_value": "Deploy the solution to Production"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-30T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-30T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2026-01-07",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-07",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -23.0,
+          "display_value": "-23"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "69FS +1d",
+          "display_value": "69FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 180244512182148,
+      "row_number": 74,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Perform sanity testing to confirm core functionality",
+          "display_value": "Perform sanity testing to confirm core functionality"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-30T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-30T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2026-01-07",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-07",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -23.0,
+          "display_value": "-23"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "69FS +1d",
+          "display_value": "69FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    },
+    {
+      "row_id": 4683844139552644,
+      "row_number": 75,
+      "cells": [
+        {
+          "column_id": 2050728055754628,
+          "value": "Initiate post-launch monitoring to ensure stability and performance",
+          "display_value": "Initiate post-launch monitoring to ensure stability and performance"
+        },
+        {
+          "column_id": 6078942642130820,
+          "value": "Red",
+          "display_value": "Red"
+        },
+        {
+          "column_id": 2472940520820612,
+          "value": "Not Started",
+          "display_value": "Not Started"
+        },
+        {
+          "column_id": 6554327683125124,
+          "value": "FPS",
+          "display_value": "FPS"
+        },
+        {
+          "column_id": 4665306577063812,
+          "value": "1d",
+          "display_value": "1d"
+        },
+        {
+          "column_id": 8806127496810372,
+          "value": "2026-01-30T08:00:00",
+          "display_value": null
+        },
+        {
+          "column_id": 221140707135364,
+          "value": "2026-01-30T16:59:59",
+          "display_value": null
+        },
+        {
+          "column_id": 6235957863600004,
+          "value": "2026-01-07",
+          "display_value": null
+        },
+        {
+          "column_id": 3984158049914756,
+          "value": "2026-01-07",
+          "display_value": null
+        },
+        {
+          "column_id": 8487757677285252,
+          "value": -23.0,
+          "display_value": "-23"
+        },
+        {
+          "column_id": 2413506763378564,
+          "value": "69FS +1d",
+          "display_value": "69FS +1d"
+        },
+        {
+          "column_id": 6976540148191108,
+          "value": null,
+          "display_value": null
+        },
+        {
+          "column_id": 7157755622936452,
+          "value": null,
+          "display_value": null
+        }
+      ]
+    }
+  ]
+}

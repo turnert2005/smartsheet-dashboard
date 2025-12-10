@@ -1,0 +1,227 @@
+[
+  {
+    "type": "TITLE",
+    "title": "Phase 2 - Agentic Voice",
+    "xPosition": 0,
+    "yPosition": 0,
+    "width": 12,
+    "height": 2,
+    "showTitle": true,
+    "contents": {
+      "type": "TITLE",
+      "backgroundColor": "#FFFFFF",
+      "htmlContent": "<p>Project Dashboard</p>"
+    }
+  },
+  {
+    "type": "METRIC",
+    "title": "STATUS",
+    "showTitle": true,
+    "xPosition": 0,
+    "yPosition": 2,
+    "width": 3,
+    "height": 3,
+    "contents": {
+      "type": "METRIC",
+      "sheetId": 5044712680411012,
+      "cellData": [
+        {
+          "objectId": 5044712680411012,
+          "dataSource": "SUMMARY_FIELD",
+          "columnId": 6367993046192004,
+          "label": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "type": "METRIC",
+    "title": "VARIANCE",
+    "showTitle": true,
+    "xPosition": 3,
+    "yPosition": 2,
+    "width": 3,
+    "height": 3,
+    "contents": {
+      "type": "METRIC",
+      "sheetId": 5044712680411012,
+      "cellData": [
+        {
+          "objectId": 5044712680411012,
+          "dataSource": "SUMMARY_FIELD",
+          "columnId": 3299739713097604,
+          "label": "VARIANCE"
+        }
+      ]
+    }
+  },
+  {
+    "type": "METRIC",
+    "title": "NEW TARGET",
+    "showTitle": true,
+    "xPosition": 6,
+    "yPosition": 2,
+    "width": 3,
+    "height": 3,
+    "contents": {
+      "type": "METRIC",
+      "sheetId": 5044712680411012,
+      "cellData": [
+        {
+          "objectId": 5044712680411012,
+          "dataSource": "SUMMARY_FIELD",
+          "columnId": 7493892953034628,
+          "label": "NEW TARGET"
+        }
+      ]
+    }
+  },
+  {
+    "type": "METRIC",
+    "title": "ORIGINAL PLAN",
+    "showTitle": true,
+    "xPosition": 9,
+    "yPosition": 2,
+    "width": 3,
+    "height": 3,
+    "contents": {
+      "type": "METRIC",
+      "sheetId": 5044712680411012,
+      "cellData": [
+        {
+          "objectId": 5044712680411012,
+          "dataSource": "SUMMARY_FIELD",
+          "columnId": 1864393418821508,
+          "label": "ORIGINAL PLAN"
+        }
+      ]
+    }
+  },
+  {
+    "type": "CHART",
+    "title": "HEALTH COUNTS",
+    "showTitle": true,
+    "xPosition": 0,
+    "yPosition": 5,
+    "width": 4,
+    "height": 4,
+    "contents": {
+      "type": "CHART",
+      "chartType": "PIE",
+      "sheetId": 5044712680411012,
+      "legend": {
+        "position": "RIGHT"
+      },
+      "includedColumnIds": [
+        6078942642130820
+      ]
+    }
+  },
+  {
+    "type": "CHART",
+    "title": "COMPLETION %",
+    "showTitle": true,
+    "xPosition": 4,
+    "yPosition": 5,
+    "width": 3,
+    "height": 4,
+    "contents": {
+      "type": "CHART",
+      "chartType": "DONUT",
+      "sheetId": 5044712680411012,
+      "legend": {
+        "position": "RIGHT"
+      },
+      "includedColumnIds": [
+        2472940520820612
+      ]
+    }
+  },
+  {
+    "type": "CHART",
+    "title": "TASKS BY STATUS",
+    "showTitle": true,
+    "xPosition": 7,
+    "yPosition": 5,
+    "width": 5,
+    "height": 4,
+    "contents": {
+      "type": "CHART",
+      "chartType": "BAR",
+      "sheetId": 5044712680411012,
+      "legend": {
+        "position": "RIGHT"
+      },
+      "includedColumnIds": [
+        2472940520820612
+      ]
+    }
+  },
+  {
+    "type": "RICHTEXT",
+    "title": "VENDOR PROGRESS",
+    "showTitle": true,
+    "xPosition": 0,
+    "yPosition": 14,
+    "width": 6,
+    "height": 5,
+    "contents": {
+      "type": "RICHTEXT",
+      "htmlContent": "<div style=\"font-family: Arial, sans-serif; padding: 10px; font-size: 14px;\">\n                <div style=\"margin-bottom: 12px; display: flex; align-items: center;\">\n                    <span style=\"width: 80px; font-weight: bold;\">FPS:</span>\n                    <span style=\"font-family: monospace; letter-spacing: 2px; margin: 0 10px;\">\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591</span>\n                    <span style=\"font-weight: bold; color: #f57c00;\">42%</span>\n                </div>\n            \n                <div style=\"margin-bottom: 12px; display: flex; align-items: center;\">\n                    <span style=\"width: 80px; font-weight: bold;\">IGT:</span>\n                    <span style=\"font-family: monospace; letter-spacing: 2px; margin: 0 10px;\">\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591</span>\n                    <span style=\"font-weight: bold; color: #c62828;\">0%</span>\n                </div>\n            \n                <div style=\"margin-bottom: 12px; display: flex; align-items: center;\">\n                    <span style=\"width: 80px; font-weight: bold;\">Cognigy:</span>\n                    <span style=\"font-family: monospace; letter-spacing: 2px; margin: 0 10px;\">\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591</span>\n                    <span style=\"font-weight: bold; color: #c62828;\">35%</span>\n                </div>\n            \n                <div style=\"margin-bottom: 12px; display: flex; align-items: center;\">\n                    <span style=\"width: 80px; font-weight: bold;\">CSG:</span>\n                    <span style=\"font-family: monospace; letter-spacing: 2px; margin: 0 10px;\">\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591</span>\n                    <span style=\"font-weight: bold; color: #c62828;\">0%</span>\n                </div>\n            \n                <div style=\"margin-bottom: 12px; display: flex; align-items: center;\">\n                    <span style=\"width: 80px; font-weight: bold;\">Frontier:</span>\n                    <span style=\"font-family: monospace; letter-spacing: 2px; margin: 0 10px;\">\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591</span>\n                    <span style=\"font-weight: bold; color: #c62828;\">30%</span>\n                </div>\n            </div>"
+    }
+  },
+  {
+    "type": "SHORTCUTLIST",
+    "title": "",
+    "showTitle": false,
+    "xPosition": 0,
+    "yPosition": 19,
+    "width": 3,
+    "height": 2,
+    "contents": {
+      "type": "SHORTCUTLIST",
+      "shortcutData": [
+        {
+          "label": "\ud83d\udccb Task Sheet",
+          "sheetId": 5044712680411012
+        }
+      ]
+    }
+  },
+  {
+    "type": "SHORTCUTLIST",
+    "title": "",
+    "showTitle": false,
+    "xPosition": 3,
+    "yPosition": 19,
+    "width": 3,
+    "height": 2,
+    "contents": {
+      "type": "SHORTCUTLIST",
+      "shortcutData": [
+        {
+          "label": "\ud83d\udcca Gantt View",
+          "sheetId": 5044712680411012
+        }
+      ]
+    }
+  },
+  {
+    "type": "SHORTCUTLIST",
+    "title": "",
+    "showTitle": false,
+    "xPosition": 6,
+    "yPosition": 19,
+    "width": 3,
+    "height": 2,
+    "contents": {
+      "type": "SHORTCUTLIST",
+      "shortcutData": [
+        {
+          "label": "\ud83d\udcc8 Summary",
+          "sheetId": 5044712680411012
+        }
+      ]
+    }
+  }
+]
