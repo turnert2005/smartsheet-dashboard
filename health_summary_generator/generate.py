@@ -64,7 +64,7 @@ def create_output_folder(run_id):
 
 
 def get_sheet_data():
-    """Fetch current data from Smartsheet"""
+    """Fetch current data from Smartsheet including task details"""
     client = smartsheet.Smartsheet(SMARTSHEET_API_TOKEN)
     client.errors_as_exceptions(True)
 
@@ -87,10 +87,28 @@ def get_sheet_data():
                     val = str(obj)
             summary[field.title] = val
 
+    # Build column map for row data extraction
+    col_map = {col.title: col.id for col in sheet.columns}
+    col_id_to_title = {col.id: col.title for col in sheet.columns}
+
+    # Extract task details from rows
+    tasks = []
+    for row in sheet.rows:
+        task = {'row_id': row.id}
+        for cell in row.cells:
+            col_title = col_id_to_title.get(cell.column_id, '')
+            val = cell.display_value if cell.display_value else cell.value
+            if val is not None:
+                task[col_title] = val
+        if task.get('Tasks') or task.get('Task Name') or task.get('Task'):  # Only include rows with task names
+            tasks.append(task)
+
     return {
         'sheet_name': sheet.name,
         'total_rows': sheet.total_row_count,
         'summary': summary,
+        'tasks': tasks,
+        'columns': list(col_map.keys()),
         'fetched_at': datetime.now()
     }
 
@@ -211,6 +229,8 @@ def generate_summary(data: dict) -> dict:
         'vendors': vendors,
         'blockers': blockers,
         'insights': insights,
+        'tasks': data.get('tasks', []),
+        'columns': data.get('columns', []),
         'generated_at': data['fetched_at'].strftime('%Y-%m-%d %H:%M')
     }
 
@@ -324,20 +344,139 @@ def format_json(summary: dict) -> str:
     return json.dumps(summary, indent=2, default=str)
 
 
+def format_prompt(summary: dict) -> str:
+    """Format as a filled-in prompt ready for LLM"""
+
+    # Build task details section
+    tasks = summary.get('tasks', [])
+
+    # Group tasks by status
+    red_tasks = []
+    yellow_tasks = []
+    green_tasks = []
+
+    for task in tasks:
+        # Get task name (try common column names)
+        task_name = task.get('Tasks') or task.get('Task Name') or task.get('Task') or task.get('Activity') or 'Unnamed'
+        vendor = task.get('Assigned To') or task.get('Vendor') or task.get('Owner') or 'Unassigned'
+        health = task.get('Health') or ''  # Green/Yellow/Red indicator
+        status = task.get('Status') or ''  # In Progress/Complete/etc
+        due_date = task.get('End Date') or task.get('Due Date') or task.get('Finish') or ''
+        variance = task.get('Variance') or ''
+        notes = task.get('Notes') or task.get('Description') or ''
+
+        task_line = f"- {task_name} | Vendor: {vendor}"
+        if due_date:
+            # Clean up date format
+            due_str = str(due_date).split('T')[0] if 'T' in str(due_date) else due_date
+            task_line += f" | Due: {due_str}"
+        if status:
+            task_line += f" | Status: {status}"
+        if variance:
+            task_line += f" | Variance: {variance}d"
+        if notes:
+            # Truncate long notes
+            notes_short = notes[:100] + '...' if len(str(notes)) > 100 else notes
+            task_line += f" | Notes: {notes_short}"
+
+        # Use Health column for Red/Yellow/Green classification
+        health_lower = str(health).lower()
+        if 'red' in health_lower:
+            red_tasks.append(task_line)
+        elif 'yellow' in health_lower:
+            yellow_tasks.append(task_line)
+        elif 'green' in health_lower:
+            green_tasks.append(task_line)
+
+    # Build task details text
+    task_details = ""
+    if red_tasks:
+        task_details += f"\n**Critical Tasks (Red) - {len(red_tasks)} items:**\n"
+        task_details += "\n".join(red_tasks[:15])  # Limit to avoid token overflow
+        if len(red_tasks) > 15:
+            task_details += f"\n... and {len(red_tasks) - 15} more critical tasks"
+
+    if yellow_tasks:
+        task_details += f"\n\n**At-Risk Tasks (Yellow) - {len(yellow_tasks)} items:**\n"
+        task_details += "\n".join(yellow_tasks[:10])
+        if len(yellow_tasks) > 10:
+            task_details += f"\n... and {len(yellow_tasks) - 10} more at-risk tasks"
+
+    if green_tasks:
+        task_details += f"\n\n**On-Track Tasks (Green) - {len(green_tasks)} items:**\n"
+        task_details += "\n".join(green_tasks[:5])  # Show fewer green tasks
+        if len(green_tasks) > 5:
+            task_details += f"\n... and {len(green_tasks) - 5} more on-track tasks"
+
+    prompt = f"""You are acting as a project manager preparing an AI-generated summary for a Smartsheet Rich Text widget.
+You are given the summary metrics AND detailed task data from the "Phase 2 - Agentic Voice Task Sheet".
+
+## Instructions:
+1. Review BOTH the summary metrics AND the detailed task list to assess overall project health.
+2. Write a concise project health summary structured as follows:
+   - **Status**: One-line health indicator with emoji (🔴/🟡/🟢) and headline
+   - **Analysis**: 3-4 sentences explaining schedule variance, vendor progress patterns, and risks. Reference specific tasks/blockers.
+   - **Vendor Spotlight**: Quick callout of who's ahead and who's blocking, with specific task examples
+   - **Critical Items**: List the top 3-5 most urgent tasks requiring attention
+   - **Focus Areas**: Numbered list of top 3 priorities for the week
+   - **Next Steps**: 2-3 suggested actions or escalations
+3. Use bold section headers.
+4. Keep it executive-ready: action-oriented, professional tone. Highlight risks and blockers clearly.
+5. Reference specific tasks by name where relevant to add credibility.
+6. End with "Updated: {summary['generated_at']}"
+
+---
+
+## Summary Metrics:
+
+**Project Overview:**
+- Project Health: {summary['health']}
+- Project Variance: {summary['variance']} days
+- % Complete: {summary['pct_complete']}%
+- Target Go-Live: {summary['target_date']}
+- Original Go-Live: {summary['original_date']}
+
+**Task Breakdown:**
+- Total Tasks: {summary['total_tasks']}
+- Critical (Red): {summary['task_breakdown']['red']}
+- At Risk (Yellow): {summary['task_breakdown']['yellow']}
+- On Track (Green): {summary['task_breakdown']['green']}
+
+**Vendor Progress:**
+- FPS: {summary['vendors']['FPS']}%
+- IGT: {summary['vendors']['IGT']}%
+- Cognigy: {summary['vendors']['Cognigy']}%
+- CSG: {summary['vendors']['CSG']}%
+- Frontier: {summary['vendors']['Frontier']}%
+
+---
+
+## Detailed Task Data:
+{task_details if task_details else "(No detailed task data available)"}
+
+---
+
+Now generate the executive health summary, incorporating insights from both the metrics AND the specific task details above."""
+
+    return prompt
+
+
 def main():
     import argparse
     parser = argparse.ArgumentParser(description='Generate project health summary')
     parser.add_argument('--text', action='store_true', help='Generate text only')
     parser.add_argument('--html', action='store_true', help='Generate HTML only')
     parser.add_argument('--json', action='store_true', help='Generate JSON only')
+    parser.add_argument('--prompt', action='store_true', help='Generate LLM prompt with current data')
     parser.add_argument('--console', action='store_true', help='Print to console only, do not save')
     args = parser.parse_args()
 
     # Determine what to generate
-    gen_all = not (args.text or args.html or args.json)
+    gen_all = not (args.text or args.html or args.json or args.prompt)
     gen_text = args.text or gen_all
     gen_html = args.html or gen_all
     gen_json = args.json or gen_all
+    gen_prompt = args.prompt
 
     # Get run info
     today, run_num, run_id = get_run_info()
@@ -365,6 +504,8 @@ def main():
         outputs['html'] = format_html(summary)
     if gen_json:
         outputs['json'] = format_json(summary)
+    if gen_prompt:
+        outputs['prompt.md'] = format_prompt(summary)
 
     # Save or print
     if args.console:
